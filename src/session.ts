@@ -6,6 +6,7 @@ const MAX_LIVES = 5;
 export class Session {
 	public socket: WebSocket;
 	public guessedIds: number[] = [];
+	public rounds = 0;
 	public currentId!: number;
 	public currentGroup!: typeof data[0];
 	public score: number = 0;
@@ -102,6 +103,7 @@ export class Session {
 			game: {
 				score: this.score,
 				lives: this.lives,
+				round: this.rounds,
 			},
 		});
 	}
@@ -111,6 +113,7 @@ export class Session {
 			type: 'status',
 			score: this.score,
 			lives: this.lives,
+			round: this.rounds,
 		});
 	}
 
@@ -131,6 +134,7 @@ export class Session {
 
 		this.currentId = index;
 		this.guessedIds.push(index);
+		this.rounds++;
 		this.currentGroup = groups[index];
 
 		this.sendJSON({
