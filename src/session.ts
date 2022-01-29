@@ -107,7 +107,6 @@ export class Session {
 			game: {
 				score: this.score,
 				lives: this.lives,
-				round: this.rounds,
 			},
 		});
 	}
@@ -144,6 +143,7 @@ export class Session {
 		this.sendJSON({
 			type: 'group',
 			text: `${this.currentGroup.title} - ${this.currentGroup.area}`,
+			round: this.rounds,
 		});
 	}
 }
