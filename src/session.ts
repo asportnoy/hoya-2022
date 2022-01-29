@@ -59,7 +59,7 @@ export class Session {
 	}
 
 	private guess(income: number) {
-		let diff = Math.abs(income - this.currentGroup.income);
+		let diff = Math.abs(income - this.currentGroup.salary);
 
 		/*
 		 * 0-1,000: correct; 1 life gained (if not already at max)
@@ -95,7 +95,7 @@ export class Session {
 
 		this.sendJSON({
 			type: 'result',
-			answer: this.currentGroup.income,
+			answer: this.currentGroup.salary,
 			result,
 			pointsGained,
 			livesLost,
@@ -135,7 +135,7 @@ export class Session {
 
 		this.sendJSON({
 			type: 'group',
-			text: this.currentGroup.text,
+			text: `${this.currentGroup.title} - ${this.currentGroup.area}`,
 		});
 	}
 }
