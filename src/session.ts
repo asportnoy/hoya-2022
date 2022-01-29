@@ -94,7 +94,7 @@ export class Session {
 		this.score += pointsGained;
 
 		this.sendJSON({
-			type: 'score',
+			type: 'result',
 			answer: this.currentGroup.income,
 			result,
 			pointsGained,
