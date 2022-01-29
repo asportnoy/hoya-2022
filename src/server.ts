@@ -9,7 +9,7 @@ server.listen(process.env.PORT || 8000, () => {
 	console.log('Server started');
 });
 
-app.use(express.static('../static'));
+app.use(express.static(`${__dirname}/../static`));
 
 const wsServer = new WebSocketServer({server, path: '/'});
 
