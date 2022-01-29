@@ -15,6 +15,7 @@ export class Session {
 		this.socket = socket;
 
 		this.socket.on('message', data => this.message(data));
+		this.sendStatus();
 		this.chooseGroup();
 	}
 
