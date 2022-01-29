@@ -130,7 +130,7 @@ export class Session {
 		let index = Math.floor(Math.random() * groups.length);
 
 		this.currentId = index;
-		// this.guessedIds.push(index);
+		this.guessedIds.push(index);
 		this.currentGroup = groups[index];
 
 		this.sendJSON({
