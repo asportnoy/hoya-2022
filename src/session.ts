@@ -100,6 +100,7 @@ export class Session {
 
 		this.sendJSON({
 			type: 'result',
+			guess: salary,
 			answer: this.currentGroup.salary,
 			result,
 			pointsGained,
@@ -142,7 +143,8 @@ export class Session {
 
 		this.sendJSON({
 			type: 'group',
-			text: `${this.currentGroup.title} - ${this.currentGroup.area}`,
+			title: `${this.currentGroup.title}`,
+			location: `${this.currentGroup.area}`,
 			round: this.rounds,
 		});
 	}
