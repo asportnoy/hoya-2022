@@ -6,10 +6,22 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>TBD</title>
+	<link rel="stylesheet" href="main.css">
 </head>
 
 <body>
+	Score: <span id="score"></span><br>
+	Lives: <span id="lives"></span><br>
+	Round: <span id="round"></span><br>
+	Title: <span id="name"></span><br>
+	<br><br>
+	<span id="slidertext"></span>
+	<div class="slidecontainer">
+		<input type="range" min="0" max="200000" value="0" step="1000" class="slider" id="slider">
+	</div>
+	<button id="submit">Submit</button>
 
+	<script src="main.js"></script>
 </body>
 
 </html>
