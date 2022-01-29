@@ -6,20 +6,66 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>TBD</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="main.css">
 </head>
 
 <body>
-	Score: <span id="score"></span><br>
-	Lives: <span id="lives"></span><br>
-	Round: <span id="round"></span><br>
-	Title: <span id="name"></span><br>
-	<br><br>
-	<span id="slidertext"></span>
-	<div class="slidecontainer">
-		<input type="range" min="0" max="200000" value="0" step="1000" class="slider" id="slider">
+	<div id="game" class="section">
+		<div>
+			<span id="lives" class="hearts"></span>
+			<br>
+			<span id="score">0</span>
+		</div>
+		<div id="roundinfo">
+			<span id="round"></span>
+			<br>
+			<span id="name"></span>
+			<br>
+			<span id="location"></span>
+		</div>
+		<div id="datainput" class="flex-col">
+			<span id="slidertext"></span>
+			<div id="slidercontainer" class="flex-row">
+				<input type="range" min="0" max="200000" value="0" step="1000" id="slider">
+			</div>
+			<button id="submit">Submit</button>
+		</div>
 	</div>
-	<button id="submit">Submit</button>
+	<div id="result" style="display: none;" class="section">
+		<span id="res-text"></span>
+		<table id="res-table">
+			<tbody>
+				<tr>
+					<td>Your Guess</td>
+					<td id="res-guess"></td>
+				</tr>
+				<tr>
+					<td>Average Salary</td>
+					<td id="res-salary"></td>
+				</tr>
+				<tr>
+					<td>Points Gained</td>
+					<td id="res-points"></td>
+				</tr>
+				<tr>
+					<td colspan="2" id="table-divider"></td>
+				</tr>
+				<tr>
+					<td>Score</td>
+					<td id="res-score"></td>
+				</tr>
+				<tr>
+					<td>Lives</td>
+					<td class="hearts" id="res-lives"></td>
+				</tr>
+			</tbody>
+		</table>
+		<button id="res-next">Next</button>
+		<button id="res-restart" style="display: none;">Restart</button>
+	</div>
 
 	<script src="main.js"></script>
 </body>
