@@ -20,7 +20,7 @@ let resLives = document.getElementById('res-lives');
 let resNext = document.getElementById('res-next');
 let resRestart = document.getElementById('res-restart');
 
-const MAX_HEARTS = 5;
+const MAX_HEARTS = 7;
 const MAX_VALUE = 200000;
 const INITIAL_VALUE = MAX_VALUE / 2;
 let number = INITIAL_VALUE;

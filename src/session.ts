@@ -1,7 +1,7 @@
 import {RawData, WebSocket} from 'ws';
 import data from './data.json';
 
-const MAX_LIVES = 5;
+const MAX_LIVES = 7;
 const MAX_VALUE = 200000;
 
 export class Session {
@@ -61,40 +61,59 @@ export class Session {
 	}
 
 	private guess(salary: number) {
+		let closeThreshold;
+		let okThreshold;
+		if (this.rounds <= 5) {
+			closeThreshold = 20000;
+			okThreshold = 10000;
+		} else if (this.rounds <= 10) {
+			closeThreshold = 15000;
+			okThreshold = 5000;
+		} else {
+			closeThreshold = 10000;
+			okThreshold = 5000;
+		}
+
 		let diff = Math.abs(salary - this.currentGroup.salary);
 
 		// Handle salary over max value ("or more")
 		let aboveMax =
 			salary >= MAX_VALUE && this.currentGroup.salary >= MAX_VALUE;
 		/*
-		 * 0-1,000: correct; 1 life gained (if not already at max)
-		 * 1,001-5,000: correct; no lives lost
-		 * 5,001-10,000: close; 1 life lost
-		 * 10,001+: incorrect; 2 lives lost
+		 * <= 1,000: correct; 2 lifes gained (if not already at max)
+		 * <= 3,000: correct; 1 life gained (if not already at max)
+		 * <= okThreshold: correct; no lives lost
+		 * <= closeThreshold: close; 1 life lost
+		 * > okThreshold: incorrect; 2 lives lost
 		 */
 		let livesLost = 0;
 		let result: 'CORRECT' | 'CLOSE' | 'INCORRECT' = 'CORRECT';
-		if (diff > 10000 && !aboveMax) {
+		if (diff > closeThreshold && !aboveMax) {
 			result = 'INCORRECT';
 			livesLost = 2;
-		} else if (diff > 5000 && !aboveMax) {
+		} else if (diff > okThreshold && !aboveMax) {
 			result = 'CLOSE';
 			livesLost = 1;
-		} else if (diff > 1000 || aboveMax) {
+		} else if (diff > 3000 || aboveMax) {
 			result = 'CORRECT';
 			livesLost = 0;
+		} else if (diff > 1000) {
+			result = 'CORRECT';
+			livesLost = this.lives - Math.min(MAX_LIVES, this.lives + 1);
 		} else {
 			result = 'CORRECT';
-			livesLost = this.lives < MAX_LIVES ? -1 : 0;
+			livesLost = this.lives - Math.min(MAX_LIVES, this.lives + 2);
 		}
 		this.lives -= livesLost;
 
 		/*
-		 * Score determined by how far off the guess was with the max difference of 10,000 and then divided by 100 and rounded to the nearest integer.
+		 * Score determined by how far off the guess was with the max difference of closeThreshold, divided by closeThreshold, multipled by 100, and rounded to the nearest integer.
 		 * Scores less than 0 will be set to 0
 		 * Final range is 0-100
 		 */
-		let pointsGained = Math.round((10000 - diff) / 100);
+		let pointsGained = aboveMax
+			? 50
+			: Math.round(((closeThreshold - diff) / closeThreshold) * 100);
 		if (pointsGained < 0) pointsGained = 0;
 		this.score += pointsGained;
 
