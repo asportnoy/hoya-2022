@@ -2,6 +2,7 @@ import {RawData, WebSocket} from 'ws';
 import data from './data.json';
 
 const MAX_LIVES = 5;
+const MAX_VALUE = 200000;
 
 export class Session {
 	public socket: WebSocket;
@@ -59,9 +60,12 @@ export class Session {
 		this.socket.send(JSON.stringify(json));
 	}
 
-	private guess(income: number) {
-		let diff = Math.abs(income - this.currentGroup.salary);
+	private guess(salary: number) {
+		let diff = Math.abs(salary - this.currentGroup.salary);
 
+		// Handle salary over max value ("or more")
+		let aboveMax =
+			salary >= MAX_VALUE && this.currentGroup.salary >= MAX_VALUE;
 		/*
 		 * 0-1,000: correct; 1 life gained (if not already at max)
 		 * 1,001-5,000: correct; no lives lost
@@ -70,13 +74,13 @@ export class Session {
 		 */
 		let livesLost = 0;
 		let result: 'CORRECT' | 'CLOSE' | 'INCORRECT' = 'CORRECT';
-		if (diff > 10000) {
+		if (diff > 10000 && !aboveMax) {
 			result = 'INCORRECT';
 			livesLost = 2;
-		} else if (diff > 5000) {
+		} else if (diff > 5000 && !aboveMax) {
 			result = 'CLOSE';
 			livesLost = 1;
-		} else if (diff > 1000) {
+		} else if (diff > 1000 || aboveMax) {
 			result = 'CORRECT';
 			livesLost = 0;
 		} else {
