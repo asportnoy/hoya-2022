@@ -1,0 +1,42 @@
+[
+	{
+		"new": "Chicago, IL",
+		"wage": 16.08
+	},
+	{
+		"new": "Houston, TX",
+		"wage": 14.29
+	},
+	{
+		"new": "Los Angeles, CA",
+		"wage": 19.22
+	},
+	{
+		"new": "New York, NY",
+		"wage": 20.00
+	},
+	{
+		"new": "Phoenix, AZ",
+		"wage": 15.41
+	},
+	{
+		"new": "Rural Arizona",
+		"wage": 13.81
+	},
+	{
+		"new": "Rural Connecticut",
+		"wage": 15.06
+	},
+	{
+		"new": "Rural Kansas",
+		"wage": 13.20
+	},
+	{
+		"new": "Rural Massachusetts",
+		"wage": 15.24
+	},
+	{
+		"new": "Rural Nevada",
+		"wage": 12.83
+	}
+]
