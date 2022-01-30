@@ -150,7 +150,9 @@ async function game() {
 				maximumFractionDigits: 0,
 			});
 			if (!json.salaryAboveLivingWage) {
-				resLWDesc.classList = '';
+				resLWDesc.classList.remove('hidden');
+			} else {
+				resLWDesc.classList.add('hidden');
 			}
 			resPoints.innerText = json.pointsGained.toLocaleString();
 			resScore.innerText = json.game.score.toLocaleString();
