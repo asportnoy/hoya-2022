@@ -21,16 +21,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 105220,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 156960,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 156490,
 		"title": "Financial Managers"
 	},
@@ -66,16 +56,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 97610,
-		"title": "Agents and Business Managers of Artists, Performers, and Athletes"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 71300,
-		"title": "Claims Adjusters, Examiners, and Investigators"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 66760,
 		"title": "Human Resources Specialists"
 	},
@@ -106,11 +86,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 90200,
-		"title": "Tax Examiners and Collectors, and Revenue Agents"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 44820,
 		"title": "Tax Preparers"
 	},
@@ -136,11 +111,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 90830,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 98280,
 		"title": "Database Administrators and Architects"
 	},
@@ -148,16 +118,6 @@
 		"area": "Chicago, IL",
 		"salary": 103680,
 		"title": "Computer Programmers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 107920,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 80900,
-		"title": "Web Developers and Digital Interface Designers"
 	},
 	{
 		"area": "Chicago, IL",
@@ -236,11 +196,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 62380,
-		"title": "Industrial Engineering Technologists and Technicians"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 50120,
 		"title": "Surveying and Mapping Technicians"
 	},
@@ -278,11 +233,6 @@
 		"area": "Chicago, IL",
 		"salary": 80510,
 		"title": "Chemists"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 87010,
-		"title": "Environmental Science and Protection Technicians"
 	},
 	{
 		"area": "Chicago, IL",
@@ -331,11 +281,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 52210,
-		"title": "Agricultural and Food Science Technicians"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 54000,
 		"title": "Biological Technicians"
 	},
@@ -346,23 +291,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 49890,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 70980,
 		"title": "Nuclear Technicians"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 67040,
-		"title": "Occupational Health and Safety Technicians"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 61060,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "Chicago, IL",
@@ -376,28 +306,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 48170,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 58460,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 57740,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 64720,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 63320,
-		"title": "Probation Officers and Correctional Treatment Specialists"
 	},
 	{
 		"area": "Chicago, IL",
@@ -423,21 +333,6 @@
 		"area": "Chicago, IL",
 		"salary": 64660,
 		"title": "Judicial Law Clerks"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 106790,
-		"title": "Administrative Law Judges, Adjudicators, and Hearing Officers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 99920,
-		"title": "Arbitrators, Mediators, and Conciliators"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 182320,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Chicago, IL",
@@ -521,11 +416,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 64590,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 35250,
 		"title": "Library Technicians"
 	},
@@ -581,11 +471,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 34410,
-		"title": "Merchandise Displayers and Window Trimmers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 51860,
 		"title": "Set and Exhibit Designers"
 	},
@@ -606,18 +491,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 39730,
-		"title": "Umpires, Referees, and Other Sports Officials"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 54620,
 		"title": "Music Directors and Composers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 67570,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "Chicago, IL",
@@ -791,18 +666,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 55260,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 35320,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 42080,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Chicago, IL",
@@ -966,11 +831,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 24970,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 32970,
 		"title": "Janitors and Cleaners"
 	},
@@ -996,11 +856,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 27760,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 24460,
 		"title": "Amusement and Recreation Attendants"
 	},
@@ -1011,18 +866,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 68140,
-		"title": "Morticians, Undertakers, and Funeral Arrangers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 51930,
 		"title": "Barbers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 32450,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1056,11 +901,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 49650,
-		"title": "Exercise Trainers and Group Fitness Instructors"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 29920,
 		"title": "Recreation Workers"
 	},
@@ -1088,11 +928,6 @@
 		"area": "Chicago, IL",
 		"salary": 71890,
 		"title": "Insurance Sales Agents"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 96860,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1128,11 +963,6 @@
 		"area": "Chicago, IL",
 		"salary": 45990,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 46570,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1206,36 +1036,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 49570,
-		"title": "Postal Service Mail Sorters and Processors"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 39310,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 63430,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 52650,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 39420,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 43330,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 43580,
 		"title": "Data Entry Keyers"
 	},
@@ -1243,11 +1043,6 @@
 		"area": "Chicago, IL",
 		"salary": 44920,
 		"title": "Word Processors and Typists"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 46980,
-		"title": "Insurance Claims and Policy Processing Clerks"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1306,11 +1101,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 63070,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 86030,
 		"title": "Construction Equipment Operators"
 	},
@@ -1356,11 +1146,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 97130,
-		"title": "Elevator and Escalator Installers and Repairers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 54600,
 		"title": "Hazardous Materials Removal Workers"
 	},
@@ -1371,53 +1156,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 57750,
-		"title": "Rail-Track Laying and Maintenance Workers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 44760,
 		"title": "Technology Repairers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 59190,
-		"title": "Radio, Cellular, and Tower Equipment Technician"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 70120,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 79090,
-		"title": "Electric Motor, Power Tool, and Related Repairers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 58690,
-		"title": "Security and Fire Alarm Systems Installers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 72520,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 51720,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 55560,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 49980,
-		"title": "Farm Equipment Mechanics and Service Technicians"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1426,18 +1166,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 39430,
-		"title": "Motorboat Mechanics and Service Technicians"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 40220,
 		"title": "Motorcycle Mechanics"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 40900,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1456,16 +1186,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 82290,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 60970,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 38410,
 		"title": "Home Appliance Repairers"
 	},
@@ -1478,16 +1198,6 @@
 		"area": "Chicago, IL",
 		"salary": 63460,
 		"title": "Millwrights"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 65390,
-		"title": "Telecommunications Line Installers and Repairers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 48160,
-		"title": "Camera and Photographic Equipment Repairers"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1521,11 +1231,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 32080,
-		"title": "Meat, Poultry, and Fish Cutters and Trimmers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 31660,
 		"title": "Slaughterers and Meat Packers"
 	},
@@ -1541,18 +1246,8 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 47230,
-		"title": "Metal-Refining Furnace Operators and Tenders"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 42330,
 		"title": "Pourers and Casters, Metal"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 46240,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1596,21 +1291,6 @@
 	},
 	{
 		"area": "Chicago, IL",
-		"salary": 64720,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 51300,
-		"title": "Furnace, Kiln, Oven, Drier, and Kettle Operators"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 37630,
-		"title": "Jewelers and Precious Stone and Metal Workers"
-	},
-	{
-		"area": "Chicago, IL",
 		"salary": 55010,
 		"title": "Medical Appliance Technicians"
 	},
@@ -1618,11 +1298,6 @@
 		"area": "Chicago, IL",
 		"salary": 36570,
 		"title": "Etchers and Engravers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 201120,
-		"title": "Airline Pilots, Copilots, and Flight Engineers"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1663,11 +1338,6 @@
 		"area": "Chicago, IL",
 		"salary": 38450,
 		"title": "Passenger Vehicle Drivers"
-	},
-	{
-		"area": "Chicago, IL",
-		"salary": 80600,
-		"title": "Captains, Mates, and Pilots of Water Vessels"
 	},
 	{
 		"area": "Chicago, IL",
@@ -1731,16 +1401,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 102390,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 161500,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 153990,
 		"title": "Financial Managers"
 	},
@@ -1768,16 +1428,6 @@
 		"area": "Houston, TX",
 		"salary": 107780,
 		"title": "Emergency Management Directors"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 103290,
-		"title": "Agents and Business Managers of Artists, Performers, and Athletes"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 77820,
-		"title": "Claims Adjusters, Examiners, and Investigators"
 	},
 	{
 		"area": "Houston, TX",
@@ -1811,11 +1461,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 88130,
-		"title": "Tax Examiners and Collectors, and Revenue Agents"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 118700,
 		"title": "Information Security Analysts"
 	},
@@ -1836,11 +1481,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 96090,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 103800,
 		"title": "Database Administrators and Architects"
 	},
@@ -1848,16 +1488,6 @@
 		"area": "Houston, TX",
 		"salary": 103640,
 		"title": "Computer Programmers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 109590,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 73430,
-		"title": "Web Developers and Digital Interface Designers"
 	},
 	{
 		"area": "Houston, TX",
@@ -1931,11 +1561,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 61760,
-		"title": "Industrial Engineering Technologists and Technicians"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 45890,
 		"title": "Surveying and Mapping Technicians"
 	},
@@ -1981,11 +1606,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 93780,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 188400,
 		"title": "Geoscientists"
 	},
@@ -2016,11 +1636,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 41400,
-		"title": "Agricultural and Food Science Technicians"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 49250,
 		"title": "Biological Technicians"
 	},
@@ -2028,21 +1643,6 @@
 		"area": "Houston, TX",
 		"salary": 66480,
 		"title": "Chemical Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50240,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 53450,
-		"title": "Occupational Health and Safety Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 62770,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "Houston, TX",
@@ -2056,28 +1656,8 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 51510,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50520,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 65060,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50750,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 48500,
-		"title": "Probation Officers and Correctional Treatment Specialists"
 	},
 	{
 		"area": "Houston, TX",
@@ -2098,21 +1678,6 @@
 		"area": "Houston, TX",
 		"salary": 145600,
 		"title": "Lawyers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 102860,
-		"title": "Administrative Law Judges, Adjudicators, and Hearing Officers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 78740,
-		"title": "Arbitrators, Mediators, and Conciliators"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 90640,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Houston, TX",
@@ -2196,11 +1761,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 63300,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 32330,
 		"title": "Library Technicians"
 	},
@@ -2256,11 +1816,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 30720,
-		"title": "Merchandise Displayers and Window Trimmers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 48030,
 		"title": "Set and Exhibit Designers"
 	},
@@ -2283,11 +1838,6 @@
 		"area": "Houston, TX",
 		"salary": 61990,
 		"title": "Music Directors and Composers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 55950,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "Houston, TX",
@@ -2461,18 +2011,8 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 37150,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 37330,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 34400,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Houston, TX",
@@ -2636,11 +2176,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 22130,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 26030,
 		"title": "Janitors and Cleaners"
 	},
@@ -2666,18 +2201,8 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 24900,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 21940,
 		"title": "Amusement and Recreation Attendants"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 24640,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
 	},
 	{
 		"area": "Houston, TX",
@@ -2706,11 +2231,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 47040,
-		"title": "Exercise Trainers and Group Fitness Instructors"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 28130,
 		"title": "Recreation Workers"
 	},
@@ -2736,11 +2256,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 104430,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 43480,
 		"title": "Travel Agents"
 	},
@@ -2753,11 +2268,6 @@
 		"area": "Houston, TX",
 		"salary": 42960,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 45050,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Houston, TX",
@@ -2831,36 +2341,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 51400,
-		"title": "Postal Service Mail Sorters and Processors"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 37880,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 65720,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50320,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 37120,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 39690,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 34270,
 		"title": "Data Entry Keyers"
 	},
@@ -2868,11 +2348,6 @@
 		"area": "Houston, TX",
 		"salary": 39130,
 		"title": "Word Processors and Typists"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 41720,
-		"title": "Insurance Claims and Policy Processing Clerks"
 	},
 	{
 		"area": "Houston, TX",
@@ -2921,11 +2396,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 39160,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 48450,
 		"title": "Construction Equipment Operators"
 	},
@@ -2966,11 +2436,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 72950,
-		"title": "Elevator and Escalator Installers and Repairers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 39320,
 		"title": "Hazardous Materials Removal Workers"
 	},
@@ -2991,58 +2456,8 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 46490,
-		"title": "Radio, Cellular, and Tower Equipment Technician"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 58830,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 45170,
-		"title": "Electric Motor, Power Tool, and Related Repairers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50870,
-		"title": "Security and Fire Alarm Systems Installers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 69840,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 47800,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 51290,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 41880,
-		"title": "Farm Equipment Mechanics and Service Technicians"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 48630,
 		"title": "Rail Car Repairers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50140,
-		"title": "Motorboat Mechanics and Service Technicians"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 41580,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
 	},
 	{
 		"area": "Houston, TX",
@@ -3053,16 +2468,6 @@
 		"area": "Houston, TX",
 		"salary": 51520,
 		"title": "Mechanical Door Repairers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 50000,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 54920,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
 	},
 	{
 		"area": "Houston, TX",
@@ -3078,11 +2483,6 @@
 		"area": "Houston, TX",
 		"salary": 50820,
 		"title": "Millwrights"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 73860,
-		"title": "Telecommunications Line Installers and Repairers"
 	},
 	{
 		"area": "Houston, TX",
@@ -3111,11 +2511,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 31420,
-		"title": "Meat, Poultry, and Fish Cutters and Trimmers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 29760,
 		"title": "Slaughterers and Meat Packers"
 	},
@@ -3128,16 +2523,6 @@
 		"area": "Houston, TX",
 		"salary": 27250,
 		"title": "Food Cooking Machine Operators"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 40660,
-		"title": "Metal-Refining Furnace Operators and Tenders"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 51260,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "Houston, TX",
@@ -3181,21 +2566,6 @@
 	},
 	{
 		"area": "Houston, TX",
-		"salary": 45590,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 34680,
-		"title": "Furnace, Kiln, Oven, Drier, and Kettle Operators"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 38280,
-		"title": "Jewelers and Precious Stone and Metal Workers"
-	},
-	{
-		"area": "Houston, TX",
 		"salary": 43740,
 		"title": "Medical Appliance Technicians"
 	},
@@ -3223,11 +2593,6 @@
 		"area": "Houston, TX",
 		"salary": 28820,
 		"title": "Passenger Vehicle Drivers"
-	},
-	{
-		"area": "Houston, TX",
-		"salary": 81290,
-		"title": "Captains, Mates, and Pilots of Water Vessels"
 	},
 	{
 		"area": "Houston, TX",
@@ -3286,16 +2651,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 113850,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 184170,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 158070,
 		"title": "Financial Managers"
 	},
@@ -3331,16 +2686,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 103410,
-		"title": "Agents and Business Managers of Artists, Performers, and Athletes"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 80940,
-		"title": "Claims Adjusters, Examiners, and Investigators"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 75350,
 		"title": "Human Resources Specialists"
 	},
@@ -3371,11 +2716,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 92740,
-		"title": "Tax Examiners and Collectors, and Revenue Agents"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 64030,
 		"title": "Tax Preparers"
 	},
@@ -3401,11 +2741,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 97210,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 104230,
 		"title": "Database Administrators and Architects"
 	},
@@ -3413,16 +2748,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 98540,
 		"title": "Computer Programmers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 118360,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 84680,
-		"title": "Web Developers and Digital Interface Designers"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -3496,11 +2821,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 68960,
-		"title": "Industrial Engineering Technologists and Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 86090,
 		"title": "Surveying and Mapping Technicians"
 	},
@@ -3546,11 +2866,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 95390,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 105000,
 		"title": "Geoscientists"
 	},
@@ -3586,11 +2901,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 50650,
-		"title": "Agricultural and Food Science Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 49650,
 		"title": "Biological Technicians"
 	},
@@ -3598,21 +2908,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 50580,
 		"title": "Chemical Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 54030,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 61900,
-		"title": "Occupational Health and Safety Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 83210,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -3626,28 +2921,8 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 55600,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 60810,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 83460,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 73630,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 92310,
-		"title": "Probation Officers and Correctional Treatment Specialists"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -3673,21 +2948,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 72690,
 		"title": "Judicial Law Clerks"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 112090,
-		"title": "Administrative Law Judges, Adjudicators, and Hearing Officers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 120600,
-		"title": "Arbitrators, Mediators, and Conciliators"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 155670,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -3761,11 +3021,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 81280,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 48230,
 		"title": "Library Technicians"
 	},
@@ -3821,11 +3076,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 39610,
-		"title": "Merchandise Displayers and Window Trimmers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 72530,
 		"title": "Set and Exhibit Designers"
 	},
@@ -3841,18 +3091,8 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 36650,
-		"title": "Umpires, Referees, and Other Sports Officials"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 70370,
 		"title": "Music Directors and Composers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 71260,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4011,18 +3251,8 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 50000,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 47270,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 53580,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4171,11 +3401,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 30190,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 36290,
 		"title": "Janitors and Cleaners"
 	},
@@ -4201,11 +3426,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 31970,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 31300,
 		"title": "Amusement and Recreation Attendants"
 	},
@@ -4216,18 +3436,8 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 51350,
-		"title": "Morticians, Undertakers, and Funeral Arrangers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 40750,
 		"title": "Barbers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 37860,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4261,11 +3471,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 53540,
-		"title": "Exercise Trainers and Group Fitness Instructors"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 35940,
 		"title": "Recreation Workers"
 	},
@@ -4293,11 +3498,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 62680,
 		"title": "Insurance Sales Agents"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 75480,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4333,11 +3533,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 45830,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 50340,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4411,36 +3606,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 50320,
-		"title": "Postal Service Mail Sorters and Processors"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 37840,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 72690,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 63600,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 45680,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 46340,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 38080,
 		"title": "Data Entry Keyers"
 	},
@@ -4448,11 +3613,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 47160,
 		"title": "Word Processors and Typists"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 49440,
-		"title": "Insurance Claims and Policy Processing Clerks"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4511,11 +3671,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 66040,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 84000,
 		"title": "Construction Equipment Operators"
 	},
@@ -4561,11 +3716,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 98570,
-		"title": "Elevator and Escalator Installers and Repairers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 50120,
 		"title": "Hazardous Materials Removal Workers"
 	},
@@ -4586,53 +3736,8 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 61440,
-		"title": "Radio, Cellular, and Tower Equipment Technician"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 84170,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 48190,
-		"title": "Electric Motor, Power Tool, and Related Repairers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 54980,
-		"title": "Security and Fire Alarm Systems Installers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 74700,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 53720,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 64440,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 51840,
-		"title": "Motorboat Mechanics and Service Technicians"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 36430,
 		"title": "Motorcycle Mechanics"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 41140,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4651,16 +3756,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 76530,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 65130,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 47900,
 		"title": "Home Appliance Repairers"
 	},
@@ -4673,16 +3768,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 66880,
 		"title": "Millwrights"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 65630,
-		"title": "Telecommunications Line Installers and Repairers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 45610,
-		"title": "Camera and Photographic Equipment Repairers"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4716,11 +3801,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 33980,
-		"title": "Meat, Poultry, and Fish Cutters and Trimmers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 31180,
 		"title": "Slaughterers and Meat Packers"
 	},
@@ -4736,18 +3816,8 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 44530,
-		"title": "Metal-Refining Furnace Operators and Tenders"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 34900,
 		"title": "Pourers and Casters, Metal"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 45300,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4791,21 +3861,6 @@
 	},
 	{
 		"area": "Los Angeles, CA",
-		"salary": 80330,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 47030,
-		"title": "Furnace, Kiln, Oven, Drier, and Kettle Operators"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 49880,
-		"title": "Jewelers and Precious Stone and Metal Workers"
-	},
-	{
-		"area": "Los Angeles, CA",
 		"salary": 53640,
 		"title": "Medical Appliance Technicians"
 	},
@@ -4813,11 +3868,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 31880,
 		"title": "Etchers and Engravers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 218970,
-		"title": "Airline Pilots, Copilots, and Flight Engineers"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4853,11 +3903,6 @@
 		"area": "Los Angeles, CA",
 		"salary": 38210,
 		"title": "Passenger Vehicle Drivers"
-	},
-	{
-		"area": "Los Angeles, CA",
-		"salary": 79930,
-		"title": "Captains, Mates, and Pilots of Water Vessels"
 	},
 	{
 		"area": "Los Angeles, CA",
@@ -4921,16 +3966,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 146480,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 201320,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 214670,
 		"title": "Financial Managers"
 	},
@@ -4958,16 +3993,6 @@
 		"area": "New York, NY",
 		"salary": 110030,
 		"title": "Emergency Management Directors"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 99600,
-		"title": "Agents and Business Managers of Artists, Performers, and Athletes"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 84380,
-		"title": "Claims Adjusters, Examiners, and Investigators"
 	},
 	{
 		"area": "New York, NY",
@@ -5001,11 +4026,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 82660,
-		"title": "Tax Examiners and Collectors, and Revenue Agents"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 69270,
 		"title": "Tax Preparers"
 	},
@@ -5031,11 +4051,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 106060,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 119320,
 		"title": "Database Administrators and Architects"
 	},
@@ -5043,16 +4058,6 @@
 		"area": "New York, NY",
 		"salary": 96270,
 		"title": "Computer Programmers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 123600,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 91290,
-		"title": "Web Developers and Digital Interface Designers"
 	},
 	{
 		"area": "New York, NY",
@@ -5126,11 +4131,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 56180,
-		"title": "Industrial Engineering Technologists and Technicians"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 61080,
 		"title": "Surveying and Mapping Technicians"
 	},
@@ -5176,11 +4176,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 83470,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 84440,
 		"title": "Geoscientists"
 	},
@@ -5221,11 +4216,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 50020,
-		"title": "Agricultural and Food Science Technicians"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 56770,
 		"title": "Biological Technicians"
 	},
@@ -5233,21 +4223,6 @@
 		"area": "New York, NY",
 		"salary": 58140,
 		"title": "Chemical Technicians"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 54460,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 62960,
-		"title": "Occupational Health and Safety Technicians"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 74670,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "New York, NY",
@@ -5261,28 +4236,8 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 61320,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 67290,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 64540,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 70520,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 75410,
-		"title": "Probation Officers and Correctional Treatment Specialists"
 	},
 	{
 		"area": "New York, NY",
@@ -5308,21 +4263,6 @@
 		"area": "New York, NY",
 		"salary": 69670,
 		"title": "Judicial Law Clerks"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 109510,
-		"title": "Administrative Law Judges, Adjudicators, and Hearing Officers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 82480,
-		"title": "Arbitrators, Mediators, and Conciliators"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 160620,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "New York, NY",
@@ -5406,11 +4346,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 77920,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 40370,
 		"title": "Library Technicians"
 	},
@@ -5461,11 +4396,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 42500,
-		"title": "Merchandise Displayers and Window Trimmers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 84770,
 		"title": "Set and Exhibit Designers"
 	},
@@ -5488,11 +4418,6 @@
 		"area": "New York, NY",
 		"salary": 89220,
 		"title": "Music Directors and Composers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 92190,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "New York, NY",
@@ -5666,18 +4591,8 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 47830,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 37660,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 44690,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "New York, NY",
@@ -5836,11 +4751,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 32120,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 38650,
 		"title": "Janitors and Cleaners"
 	},
@@ -5866,11 +4776,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 34870,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 29820,
 		"title": "Amusement and Recreation Attendants"
 	},
@@ -5881,18 +4786,8 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 64550,
-		"title": "Morticians, Undertakers, and Funeral Arrangers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 39350,
 		"title": "Barbers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 38530,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
 	},
 	{
 		"area": "New York, NY",
@@ -5926,11 +4821,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 58680,
-		"title": "Exercise Trainers and Group Fitness Instructors"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 35490,
 		"title": "Recreation Workers"
 	},
@@ -5961,11 +4851,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 156380,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 48110,
 		"title": "Travel Agents"
 	},
@@ -5993,11 +4878,6 @@
 		"area": "New York, NY",
 		"salary": 47260,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 50960,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "New York, NY",
@@ -6071,36 +4951,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 52140,
-		"title": "Postal Service Mail Sorters and Processors"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 40950,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 77390,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 62050,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 44460,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 44880,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 40910,
 		"title": "Data Entry Keyers"
 	},
@@ -6108,11 +4958,6 @@
 		"area": "New York, NY",
 		"salary": 47930,
 		"title": "Word Processors and Typists"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 55990,
-		"title": "Insurance Claims and Policy Processing Clerks"
 	},
 	{
 		"area": "New York, NY",
@@ -6171,11 +5016,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 70590,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 96440,
 		"title": "Construction Equipment Operators"
 	},
@@ -6216,11 +5056,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 87300,
-		"title": "Elevator and Escalator Installers and Repairers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 63210,
 		"title": "Hazardous Materials Removal Workers"
 	},
@@ -6231,53 +5066,8 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 72960,
-		"title": "Rail-Track Laying and Maintenance Workers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 50260,
 		"title": "Technology Repairers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 76180,
-		"title": "Radio, Cellular, and Tower Equipment Technician"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 69900,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 46420,
-		"title": "Electric Motor, Power Tool, and Related Repairers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 62350,
-		"title": "Security and Fire Alarm Systems Installers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 78740,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 50570,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 64300,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 65240,
-		"title": "Farm Equipment Mechanics and Service Technicians"
 	},
 	{
 		"area": "New York, NY",
@@ -6286,18 +5076,8 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 40720,
-		"title": "Motorboat Mechanics and Service Technicians"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 45440,
 		"title": "Motorcycle Mechanics"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 50000,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
 	},
 	{
 		"area": "New York, NY",
@@ -6316,16 +5096,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 80950,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 67780,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 50480,
 		"title": "Home Appliance Repairers"
 	},
@@ -6338,16 +5108,6 @@
 		"area": "New York, NY",
 		"salary": 81770,
 		"title": "Millwrights"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 81590,
-		"title": "Telecommunications Line Installers and Repairers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 47860,
-		"title": "Camera and Photographic Equipment Repairers"
 	},
 	{
 		"area": "New York, NY",
@@ -6381,11 +5141,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 34280,
-		"title": "Meat, Poultry, and Fish Cutters and Trimmers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 32370,
 		"title": "Slaughterers and Meat Packers"
 	},
@@ -6401,18 +5156,8 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 49300,
-		"title": "Metal-Refining Furnace Operators and Tenders"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 42510,
 		"title": "Pourers and Casters, Metal"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 55330,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "New York, NY",
@@ -6451,21 +5196,6 @@
 	},
 	{
 		"area": "New York, NY",
-		"salary": 74350,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 50210,
-		"title": "Furnace, Kiln, Oven, Drier, and Kettle Operators"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 62100,
-		"title": "Jewelers and Precious Stone and Metal Workers"
-	},
-	{
-		"area": "New York, NY",
 		"salary": 42930,
 		"title": "Medical Appliance Technicians"
 	},
@@ -6473,11 +5203,6 @@
 		"area": "New York, NY",
 		"salary": 38300,
 		"title": "Etchers and Engravers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 192410,
-		"title": "Airline Pilots, Copilots, and Flight Engineers"
 	},
 	{
 		"area": "New York, NY",
@@ -6518,11 +5243,6 @@
 		"area": "New York, NY",
 		"salary": 43750,
 		"title": "Passenger Vehicle Drivers"
-	},
-	{
-		"area": "New York, NY",
-		"salary": 85940,
-		"title": "Captains, Mates, and Pilots of Water Vessels"
 	},
 	{
 		"area": "New York, NY",
@@ -6586,16 +5306,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 103020,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 146490,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 134270,
 		"title": "Financial Managers"
 	},
@@ -6623,16 +5333,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 67140,
 		"title": "Funeral Home Managers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 87540,
-		"title": "Agents and Business Managers of Artists, Performers, and Athletes"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 57880,
-		"title": "Claims Adjusters, Examiners, and Investigators"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -6666,11 +5366,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 80790,
-		"title": "Tax Examiners and Collectors, and Revenue Agents"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 55580,
 		"title": "Tax Preparers"
 	},
@@ -6696,11 +5391,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 87460,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 103380,
 		"title": "Database Administrators and Architects"
 	},
@@ -6708,16 +5398,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 91890,
 		"title": "Computer Programmers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 105270,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 71700,
-		"title": "Web Developers and Digital Interface Designers"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -6781,11 +5461,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 62930,
-		"title": "Industrial Engineering Technologists and Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 52280,
 		"title": "Surveying and Mapping Technicians"
 	},
@@ -6813,11 +5488,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 69300,
 		"title": "Chemists"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 64070,
-		"title": "Environmental Science and Protection Technicians"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -6856,11 +5526,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 44090,
-		"title": "Agricultural and Food Science Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 45060,
 		"title": "Biological Technicians"
 	},
@@ -6868,21 +5533,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 50050,
 		"title": "Chemical Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 45400,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 46700,
-		"title": "Occupational Health and Safety Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 53400,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -6896,23 +5546,8 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 47970,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 44580,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 61630,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 42290,
-		"title": "Mental Health and Substance Abuse Social Workers"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -6933,16 +5568,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 143300,
 		"title": "Lawyers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 96040,
-		"title": "Administrative Law Judges, Adjudicators, and Hearing Officers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 112050,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7016,11 +5641,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 57300,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 35070,
 		"title": "Library Technicians"
 	},
@@ -7066,11 +5686,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 33890,
-		"title": "Merchandise Displayers and Window Trimmers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 53950,
 		"title": "Set and Exhibit Designers"
 	},
@@ -7088,16 +5703,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 46890,
 		"title": "Coaches and Scouts"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 43360,
-		"title": "Umpires, Referees, and Other Sports Officials"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 69090,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7256,18 +5861,8 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 36080,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 36940,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 37120,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7406,11 +6001,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 28320,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 30640,
 		"title": "Janitors and Cleaners"
 	},
@@ -7436,11 +6026,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 27360,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 28380,
 		"title": "Amusement and Recreation Attendants"
 	},
@@ -7448,16 +6033,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 34390,
 		"title": "Funeral Attendants"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 68360,
-		"title": "Morticians, Undertakers, and Funeral Arrangers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 34820,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7483,11 +6058,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 31580,
 		"title": "Tour and Travel Guides"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 44270,
-		"title": "Exercise Trainers and Group Fitness Instructors"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7521,11 +6091,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 64160,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 55630,
 		"title": "Travel Agents"
 	},
@@ -7548,11 +6113,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 40290,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 44880,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7626,36 +6186,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 51520,
-		"title": "Postal Service Mail Sorters and Processors"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 36870,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 62450,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 53440,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 38450,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 39380,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 36230,
 		"title": "Data Entry Keyers"
 	},
@@ -7663,11 +6193,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 43670,
 		"title": "Word Processors and Typists"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 44270,
-		"title": "Insurance Claims and Policy Processing Clerks"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7721,11 +6246,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 40590,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 49110,
 		"title": "Construction Equipment Operators"
 	},
@@ -7771,11 +6291,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 84640,
-		"title": "Elevator and Escalator Installers and Repairers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 39520,
 		"title": "Hazardous Materials Removal Workers"
 	},
@@ -7786,63 +6301,8 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 55870,
-		"title": "Rail-Track Laying and Maintenance Workers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 42100,
 		"title": "Technology Repairers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 61000,
-		"title": "Radio, Cellular, and Tower Equipment Technician"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 51970,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 46980,
-		"title": "Electric Motor, Power Tool, and Related Repairers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 55410,
-		"title": "Security and Fire Alarm Systems Installers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 73120,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 46200,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 49950,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 49710,
-		"title": "Farm Equipment Mechanics and Service Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 57440,
-		"title": "Motorboat Mechanics and Service Technicians"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 44190,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7853,16 +6313,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 56350,
 		"title": "Mechanical Door Repairers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 60010,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 50070,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7878,16 +6328,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 70460,
 		"title": "Millwrights"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 49370,
-		"title": "Telecommunications Line Installers and Repairers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 46230,
-		"title": "Camera and Photographic Equipment Repairers"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7916,11 +6356,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 32240,
-		"title": "Meat, Poultry, and Fish Cutters and Trimmers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 41470,
 		"title": "Food/Tobacco Processing Workers"
 	},
@@ -7931,18 +6366,8 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 43080,
-		"title": "Metal-Refining Furnace Operators and Tenders"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 37480,
 		"title": "Pourers and Casters, Metal"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 46740,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -7981,21 +6406,6 @@
 	},
 	{
 		"area": "Phoenix, AZ",
-		"salary": 54110,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 39470,
-		"title": "Furnace, Kiln, Oven, Drier, and Kettle Operators"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 33860,
-		"title": "Jewelers and Precious Stone and Metal Workers"
-	},
-	{
-		"area": "Phoenix, AZ",
 		"salary": 43000,
 		"title": "Medical Appliance Technicians"
 	},
@@ -8003,11 +6413,6 @@
 		"area": "Phoenix, AZ",
 		"salary": 34730,
 		"title": "Etchers and Engravers"
-	},
-	{
-		"area": "Phoenix, AZ",
-		"salary": 165910,
-		"title": "Airline Pilots, Copilots, and Flight Engineers"
 	},
 	{
 		"area": "Phoenix, AZ",
@@ -8091,16 +6496,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 76000,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 109860,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 91280,
 		"title": "Financial Managers"
 	},
@@ -8166,16 +6561,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 61480,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 97780,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 69800,
 		"title": "Surveyors"
 	},
@@ -8211,11 +6596,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 78780,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 90320,
 		"title": "Geoscientists"
 	},
@@ -8241,43 +6621,13 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 42620,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 50900,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 28100,
 		"title": "Rehabilitation Counselors"
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 46020,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 41600,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 49830,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 45100,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 47980,
-		"title": "Probation Officers and Correctional Treatment Specialists"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8288,11 +6638,6 @@
 		"area": "Rural Arizona",
 		"salary": 101570,
 		"title": "Lawyers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 81410,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8333,11 +6678,6 @@
 		"area": "Rural Arizona",
 		"salary": 39030,
 		"title": "Self-Enrichment Teachers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 44370,
-		"title": "Librarians and Media Collections Specialists"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8441,18 +6781,8 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 37640,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 38360,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 37430,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8556,11 +6886,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 25450,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 30920,
 		"title": "Janitors and Cleaners"
 	},
@@ -8583,16 +6908,6 @@
 		"area": "Rural Arizona",
 		"salary": 28250,
 		"title": "Amusement and Recreation Attendants"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 35460,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 47900,
-		"title": "Exercise Trainers and Group Fitness Instructors"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8621,18 +6936,8 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 63230,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 35960,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 39610,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8701,31 +7006,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 38700,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 49300,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 34740,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 34260,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 35800,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 31760,
 		"title": "Data Entry Keyers"
 	},
@@ -8753,11 +7033,6 @@
 		"area": "Rural Arizona",
 		"salary": 35290,
 		"title": "Construction Laborers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 43000,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8796,36 +7071,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 67820,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 62020,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 38790,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 56300,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 58570,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 45250,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 40400,
 		"title": "Machinery Maintenance Workers"
 	},
@@ -8841,11 +7086,6 @@
 	},
 	{
 		"area": "Rural Arizona",
-		"salary": 61630,
-		"title": "Welders, Cutters, Solderers, and Brazers"
-	},
-	{
-		"area": "Rural Arizona",
 		"salary": 36330,
 		"title": "Printing Press Operators"
 	},
@@ -8858,11 +7098,6 @@
 		"area": "Rural Arizona",
 		"salary": 27060,
 		"title": "Sewing Machine Operators"
-	},
-	{
-		"area": "Rural Arizona",
-		"salary": 41620,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
 	},
 	{
 		"area": "Rural Arizona",
@@ -8921,16 +7156,6 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 90370,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 103610,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 118250,
 		"title": "Financial Managers"
 	},
@@ -8961,11 +7186,6 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 60580,
-		"title": "Web Developers and Digital Interface Designers"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 101700,
 		"title": "Electrical Engineers"
 	},
@@ -8991,23 +7211,8 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 66760,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 36680,
 		"title": "Rehabilitation Counselors"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 53220,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 74460,
-		"title": "Child, Family, and School Social Workers"
 	},
 	{
 		"area": "Rural Connecticut",
@@ -9048,11 +7253,6 @@
 		"area": "Rural Connecticut",
 		"salary": 76970,
 		"title": "High School Teachers"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 50740,
-		"title": "Librarians and Media Collections Specialists"
 	},
 	{
 		"area": "Rural Connecticut",
@@ -9121,18 +7321,8 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 39880,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 36880,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 39230,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Rural Connecticut",
@@ -9206,11 +7396,6 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 25010,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 39460,
 		"title": "Janitors and Cleaners"
 	},
@@ -9258,11 +7443,6 @@
 		"area": "Rural Connecticut",
 		"salary": 42840,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 44610,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Rural Connecticut",
@@ -9316,26 +7496,6 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 38430,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 60160,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 42110,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 45060,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 35890,
 		"title": "Office Clerks"
 	},
@@ -9376,26 +7536,6 @@
 	},
 	{
 		"area": "Rural Connecticut",
-		"salary": 48100,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 53040,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 37400,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 57880,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "Rural Connecticut",
 		"salary": 58980,
 		"title": "Machinery Maintenance Workers"
 	},
@@ -9408,11 +7548,6 @@
 		"area": "Rural Connecticut",
 		"salary": 36890,
 		"title": "Butchers and Meat Cutters"
-	},
-	{
-		"area": "Rural Connecticut",
-		"salary": 55350,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "Rural Connecticut",
@@ -9476,16 +7611,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 85810,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 101930,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 104890,
 		"title": "Financial Managers"
 	},
@@ -9518,11 +7643,6 @@
 		"area": "Rural Kansas",
 		"salary": 61330,
 		"title": "Funeral Home Managers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 72410,
-		"title": "Claims Adjusters, Examiners, and Investigators"
 	},
 	{
 		"area": "Rural Kansas",
@@ -9581,11 +7701,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 62500,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 77930,
 		"title": "Database Administrators and Architects"
 	},
@@ -9593,16 +7708,6 @@
 		"area": "Rural Kansas",
 		"salary": 65620,
 		"title": "Computer Programmers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 75550,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 48800,
-		"title": "Web Developers and Digital Interface Designers"
 	},
 	{
 		"area": "Rural Kansas",
@@ -9646,11 +7751,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 50760,
-		"title": "Industrial Engineering Technologists and Technicians"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 46490,
 		"title": "Surveying and Mapping Technicians"
 	},
@@ -9681,11 +7781,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 81400,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 72130,
 		"title": "Geoscientists"
 	},
@@ -9701,28 +7796,8 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 41670,
-		"title": "Agricultural and Food Science Technicians"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 49760,
 		"title": "Chemical Technicians"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 61190,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 51090,
-		"title": "Occupational Health and Safety Technicians"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 49840,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "Rural Kansas",
@@ -9736,28 +7811,8 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 46720,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 45310,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 51320,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 40340,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 45460,
-		"title": "Probation Officers and Correctional Treatment Specialists"
 	},
 	{
 		"area": "Rural Kansas",
@@ -9768,11 +7823,6 @@
 		"area": "Rural Kansas",
 		"salary": 75480,
 		"title": "Lawyers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 98290,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Rural Kansas",
@@ -9841,11 +7891,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 35500,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 40320,
 		"title": "Library Technicians"
 	},
@@ -9871,11 +7916,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 30070,
-		"title": "Merchandise Displayers and Window Trimmers"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 42230,
 		"title": "Producers and Directors"
 	},
@@ -9883,16 +7923,6 @@
 		"area": "Rural Kansas",
 		"salary": 26510,
 		"title": "Coaches and Scouts"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 35920,
-		"title": "Umpires, Referees, and Other Sports Officials"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 34640,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10011,18 +8041,8 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 27390,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 33700,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 35270,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10136,11 +8156,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 20660,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 28830,
 		"title": "Janitors and Cleaners"
 	},
@@ -10161,11 +8176,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 21340,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 22030,
 		"title": "Amusement and Recreation Attendants"
 	},
@@ -10176,23 +8186,8 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 66740,
-		"title": "Morticians, Undertakers, and Funeral Arrangers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 26410,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 24580,
 		"title": "Tour and Travel Guides"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 28050,
-		"title": "Exercise Trainers and Group Fitness Instructors"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10238,11 +8233,6 @@
 		"area": "Rural Kansas",
 		"salary": 35090,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 33880,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10311,36 +8301,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 48410,
-		"title": "Postal Service Mail Sorters and Processors"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 35450,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 47080,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 32720,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 32320,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 32310,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 30290,
 		"title": "Data Entry Keyers"
 	},
@@ -10348,11 +8308,6 @@
 		"area": "Rural Kansas",
 		"salary": 33360,
 		"title": "Word Processors and Typists"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 51790,
-		"title": "Insurance Claims and Policy Processing Clerks"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10383,11 +8338,6 @@
 		"area": "Rural Kansas",
 		"salary": 35140,
 		"title": "Construction Laborers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 26310,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10441,48 +8391,8 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 56370,
-		"title": "Radio, Cellular, and Tower Equipment Technician"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 65660,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 42250,
-		"title": "Security and Fire Alarm Systems Installers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 55310,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 37930,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 49080,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 51130,
-		"title": "Farm Equipment Mechanics and Service Technicians"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 54210,
 		"title": "Motorcycle Mechanics"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 33830,
-		"title": "Outdoor Power Equipment and Other Small Engine Mechanics"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10493,16 +8403,6 @@
 		"area": "Rural Kansas",
 		"salary": 40560,
 		"title": "Mechanical Door Repairers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 61740,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 49720,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10521,11 +8421,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 56650,
-		"title": "Telecommunications Line Installers and Repairers"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 32220,
 		"title": "Medical Equipment Repairers"
 	},
@@ -10541,11 +8436,6 @@
 	},
 	{
 		"area": "Rural Kansas",
-		"salary": 34310,
-		"title": "Meat, Poultry, and Fish Cutters and Trimmers"
-	},
-	{
-		"area": "Rural Kansas",
 		"salary": 34120,
 		"title": "Slaughterers and Meat Packers"
 	},
@@ -10553,11 +8443,6 @@
 		"area": "Rural Kansas",
 		"salary": 33990,
 		"title": "Food/Tobacco Processing Workers"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 41230,
-		"title": "Welders, Cutters, Solderers, and Brazers"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10583,11 +8468,6 @@
 		"area": "Rural Kansas",
 		"salary": 60470,
 		"title": "Power Plant Operators"
-	},
-	{
-		"area": "Rural Kansas",
-		"salary": 34620,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
 	},
 	{
 		"area": "Rural Kansas",
@@ -10651,16 +8531,6 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 92170,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 112060,
-		"title": "Computer and Information Systems Managers"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 111560,
 		"title": "Financial Managers"
 	},
@@ -10716,11 +8586,6 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 66200,
-		"title": "Tax Examiners and Collectors, and Revenue Agents"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 45070,
 		"title": "Tax Preparers"
 	},
@@ -10728,16 +8593,6 @@
 		"area": "Rural Massachusetts",
 		"salary": 53550,
 		"title": "Computer User Support Specialists"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 69620,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 100300,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -10751,18 +8606,8 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 57430,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 83630,
 		"title": "Psychologists"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 73480,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -10771,23 +8616,8 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 52530,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 52290,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 78540,
 		"title": "Healthcare Social Workers"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 57190,
-		"title": "Mental Health and Substance Abuse Social Workers"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -10841,11 +8671,6 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 66510,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 44720,
 		"title": "Library Technicians"
 	},
@@ -10868,11 +8693,6 @@
 		"area": "Rural Massachusetts",
 		"salary": 56960,
 		"title": "Coaches and Scouts"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 36130,
-		"title": "News Analysts, Reporters, and Journalists"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -10966,18 +8786,8 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 55560,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 37730,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 42630,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -11051,11 +8861,6 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 35290,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 39290,
 		"title": "Janitors and Cleaners"
 	},
@@ -11071,28 +8876,13 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 29900,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 31220,
 		"title": "Amusement and Recreation Attendants"
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 44330,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 53380,
 		"title": "Tour and Travel Guides"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 51660,
-		"title": "Exercise Trainers and Group Fitness Instructors"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -11126,18 +8916,8 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 100130,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 44150,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 47210,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -11191,31 +8971,6 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 37950,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 62110,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 45150,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 43540,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 46370,
-		"title": "Insurance Claims and Policy Processing Clerks"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 36490,
 		"title": "Mail Clerks and Machine Operators"
 	},
@@ -11266,26 +9021,6 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 42050,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 57340,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 64170,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 64070,
-		"title": "Telecommunications Line Installers and Repairers"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 34370,
 		"title": "Bakers"
 	},
@@ -11296,18 +9031,8 @@
 	},
 	{
 		"area": "Rural Massachusetts",
-		"salary": 50870,
-		"title": "Welders, Cutters, Solderers, and Brazers"
-	},
-	{
-		"area": "Rural Massachusetts",
 		"salary": 32750,
 		"title": "Laundry and Dry-Cleaning Workers"
-	},
-	{
-		"area": "Rural Massachusetts",
-		"salary": 59310,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
 	},
 	{
 		"area": "Rural Massachusetts",
@@ -11353,16 +9078,6 @@
 		"area": "Rural Nevada",
 		"salary": 117480,
 		"title": "Sales Managers"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 85950,
-		"title": "Administrative Services and Facilities Managers"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 102710,
-		"title": "Computer and Information Systems Managers"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11436,18 +9151,8 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 82710,
-		"title": "Network and Computer Systems Administrators"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 83790,
 		"title": "Database Administrators and Architects"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 79940,
-		"title": "Software Developers and Software Quality Assurance Analysts and Testers"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11496,11 +9201,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 62820,
-		"title": "Environmental Science and Protection Technicians"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 94000,
 		"title": "Geoscientists"
 	},
@@ -11526,11 +9226,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 70530,
-		"title": "Educational, Guidance, and Career Counselors and Advisors"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 61200,
 		"title": "Marriage and Family Therapists"
 	},
@@ -11541,33 +9236,13 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 54000,
-		"title": "Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 53250,
-		"title": "Child, Family, and School Social Workers"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 50400,
 		"title": "Healthcare Social Workers"
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 58310,
-		"title": "Mental Health and Substance Abuse Social Workers"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 117580,
 		"title": "Lawyers"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 112180,
-		"title": "Judges, Magistrate Judges, and Magistrates"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11606,11 +9281,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 61550,
-		"title": "Librarians and Media Collections Specialists"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 32450,
 		"title": "Library Technicians"
 	},
@@ -11623,11 +9293,6 @@
 		"area": "Rural Nevada",
 		"salary": 30850,
 		"title": "Floral Designers"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 28030,
-		"title": "Merchandise Displayers and Window Trimmers"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11701,18 +9366,8 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 33110,
-		"title": "Emergency Medical Technicians and Paramedics"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 36340,
 		"title": "Pharmacy Technicians"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 51260,
-		"title": "Veterinary Technologists and Technicians"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11806,11 +9461,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 21330,
-		"title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 30330,
 		"title": "Janitors and Cleaners"
 	},
@@ -11831,28 +9481,13 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 21930,
-		"title": "Ushers, Lobby Attendants, and Ticket Takers"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 25720,
 		"title": "Amusement and Recreation Attendants"
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 22880,
-		"title": "Hairdressers, Hairstylists, and Cosmetologists"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 28870,
 		"title": "Concierges"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 53220,
-		"title": "Exercise Trainers and Group Fitness Instructors"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11881,18 +9516,8 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 47100,
-		"title": "Securities, Commodities, and Financial Services Sales Agents"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 36260,
 		"title": "Billing and Posting Clerks"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 38930,
-		"title": "Bookkeeping, Accounting, and Auditing Clerks"
 	},
 	{
 		"area": "Rural Nevada",
@@ -11961,31 +9586,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 35710,
-		"title": "Shipping, Receiving, and Inventory Clerks"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 59570,
-		"title": "Executive Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 39050,
-		"title": "Legal Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 35220,
-		"title": "Medical Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 40480,
-		"title": "Secretaries and Administrative Assistants"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 39390,
 		"title": "Data Entry Keyers"
 	},
@@ -12013,11 +9613,6 @@
 		"area": "Rural Nevada",
 		"salary": 39230,
 		"title": "Construction Laborers"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 71330,
-		"title": "Paving, Surfacing, and Tamping Equipment Operators"
 	},
 	{
 		"area": "Rural Nevada",
@@ -12066,41 +9661,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 66430,
-		"title": "Telecommunications Equipment Technicians"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 93120,
-		"title": "Aircraft Mechanics and Service Technicians"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 58680,
-		"title": "Automotive Service Technicians and Mechanics"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 61470,
-		"title": "Bus and Truck Mechanics and Diesel Engine Specialists"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 53810,
-		"title": "Farm Equipment Mechanics and Service Technicians"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 49130,
-		"title": "Control and Valve Installers and Repairers"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 60050,
-		"title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 67590,
 		"title": "Machinery Maintenance Workers"
 	},
@@ -12126,16 +9686,6 @@
 	},
 	{
 		"area": "Rural Nevada",
-		"salary": 55480,
-		"title": "Metal-Refining Furnace Operators and Tenders"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 53410,
-		"title": "Welders, Cutters, Solderers, and Brazers"
-	},
-	{
-		"area": "Rural Nevada",
 		"salary": 30580,
 		"title": "Printing Press Operators"
 	},
@@ -12148,11 +9698,6 @@
 		"area": "Rural Nevada",
 		"salary": 77990,
 		"title": "Power Plant Operators"
-	},
-	{
-		"area": "Rural Nevada",
-		"salary": 49330,
-		"title": "Water and Wastewater Treatment Plant and System Operators"
 	},
 	{
 		"area": "Rural Nevada",
