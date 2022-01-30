@@ -106,7 +106,11 @@ async function game() {
 	resultsSection.style.display = 'none';
 
 	// Connect to web server
-	const ws = new WebSocket(`ws://${window.location.host}`);
+	const ws = new WebSocket(
+		`${window.location.protocol == 'http:' ? 'ws' : 'wss'}://${
+			window.location.host
+		}`,
+	);
 
 	ws.addEventListener('message', data => {
 		let json = JSON.parse(data.data);
