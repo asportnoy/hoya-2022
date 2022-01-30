@@ -9,6 +9,15 @@ server.listen(process.env.PORT || 8000, () => {
 	console.log('Server started');
 });
 
+app.use((req, res, next) => {
+	if (process.env.NODE_ENV === 'production' && req.protocol == 'http') {
+		res.redirect(`https://${req.headers.host}${req.url}`);
+		return;
+	}
+
+	next();
+});
+
 app.use(express.static(`${__dirname}/../static`));
 
 const wsServer = new WebSocketServer({server, path: '/'});
