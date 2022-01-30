@@ -194,6 +194,10 @@ button:hover {
 	border-radius: 5px;
 }
 
+#not-living-wage {
+	color: #ff0000;
+}
+
 @media (min-height: 600px) {
 	.padding {
 		margin: 25px 0px;
