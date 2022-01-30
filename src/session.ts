@@ -68,16 +68,17 @@ export class Session {
 		let wage =
 			living.find(x => x.new == this.currentGroup.area)!.wage * 40 * 50;
 		let goodJob = this.currentGroup.salary >= wage;
+		let correctAmount = this.currentGroup.salary;
 
 		if (this.rounds <= 5) {
-			closeThreshold = 20000;
-			okThreshold = 10000;
+			closeThreshold = Math.max(7000, correctAmount * 0.2);
+			okThreshold = Math.max(5000, correctAmount * 0.1);
 		} else if (this.rounds <= 10) {
-			closeThreshold = 15000;
-			okThreshold = 5000;
+			closeThreshold = Math.max(5500, correctAmount * 0.15);
+			okThreshold = Math.max(4500, correctAmount * 0.065);
 		} else {
-			closeThreshold = 10000;
-			okThreshold = 5000;
+			closeThreshold = Math.max(4500, correctAmount * 0.1);
+			okThreshold = Math.max(3500, correctAmount * 0.05);
 		}
 
 		let diff = Math.abs(salary - this.currentGroup.salary);
