@@ -25,6 +25,7 @@ let resPoints = document.getElementById('res-points');
 let resScore = document.getElementById('res-score');
 let resLives = document.getElementById('res-lives');
 let resLivingWage = document.getElementById('res-l-w');
+let resLWDesc = document.getElementById('not-living-wage');
 let resNext = document.getElementById('res-next');
 let resRestart = document.getElementById('res-restart');
 
@@ -144,6 +145,9 @@ async function game() {
 				currency: 'USD',
 				maximumFractionDigits: 0,
 			});
+			if (!json.salaryAboveLivingWage) {
+				resLWDesc.classList = '';
+			}
 			resPoints.innerText = json.pointsGained.toLocaleString();
 			resScore.innerText = json.game.score.toLocaleString();
 			resLives.innerHTML = heartHTML(json.game.lives);

@@ -15,6 +15,9 @@ a:hover,
 a:active {
 	color: black;
 }
+.hidden {
+	display: none !important;
+}
 .section {
 	padding: 15px;
 	box-sizing: border-box;

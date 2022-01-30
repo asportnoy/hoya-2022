@@ -64,12 +64,11 @@ export class Session {
 	private guess(salary: number) {
 		let closeThreshold;
 		let okThreshold;
-		let livingWage;
-		for (var i = 0; i < living.length; i++) {
-			if (living[i]['new'] == this.currentGroup.area) {
-				livingWage = living[i]['wage'] * 40 * 50;
-			}
-		}
+
+		let wage =
+			living.find(x => x.new == this.currentGroup.area)!.wage * 40 * 50;
+		let goodJob = this.currentGroup.salary >= wage;
+
 		if (this.rounds <= 5) {
 			closeThreshold = 20000;
 			okThreshold = 10000;
@@ -131,7 +130,8 @@ export class Session {
 			result,
 			pointsGained,
 			livesLost,
-			livingWage: livingWage,
+			livingWage: wage,
+			salaryAboveLivingWage: goodJob,
 			game: {
 				score: this.score,
 				lives: this.lives,
