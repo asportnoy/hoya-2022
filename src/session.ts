@@ -1,5 +1,6 @@
 import {RawData, WebSocket} from 'ws';
 import data from './data.json';
+import living from './living-wage.json';
 
 const MAX_LIVES = 7;
 const MAX_VALUE = 200000;
@@ -63,6 +64,12 @@ export class Session {
 	private guess(salary: number) {
 		let closeThreshold;
 		let okThreshold;
+		let livingWage;
+		for (var i = 0; i < living.length; i++) {
+			if (living[i]['new'] == this.currentGroup.area) {
+				livingWage = living[i]['wage'] * 40 * 50;
+			}
+		}
 		if (this.rounds <= 5) {
 			closeThreshold = 20000;
 			okThreshold = 10000;
@@ -124,6 +131,7 @@ export class Session {
 			result,
 			pointsGained,
 			livesLost,
+			livingWage: livingWage,
 			game: {
 				score: this.score,
 				lives: this.lives,
