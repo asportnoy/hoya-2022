@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>TBD</title>
+	<title>Guess the salary</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -13,20 +13,47 @@
 </head>
 
 <body>
-	<div id="game" class="section">
-		<div>
+	<div id="home" class="section">
+		<div class="padding">
+			<span id="title">Guess the salary</span>
+			<span id="subtitle">Made by <b>Albert Portnoy</b> and <b>Eli Coustan</b> for <a
+					href="https://hoyahacks.georgetown.domains">Hoya Hacks 2022</a></span>
+		</div>
+		<button id="play">Play</button>
+		<div class="padding">
+			<span id="instructions-title">Instructions</span>
+			<p id="instructions">Guess the <b>average annual salary</b> for the job listed. You'll be scored based on
+				how close you are to the correct answer and may also gain or lose lives. The thresholds will get tighter
+				as the game progresses. Good luck!</p>
+			<button id="aboutbtn">Data Sources</button>
+		</div>
+	</div>
+	<div id="about" class="section" style="display: none;">
+		<span id="data-sources-title">Data sources</span>
+		<p id="data-sources">
+			Wage data is sourced from the <a href="https://www.bls.gov/bls/blswage.htm">US Bureau of Labor
+				Statistics</a>.
+			We chose the metropolitan areas that included the 5 largest cities (by population), and for rural areas
+			we
+			included nonmetropolitan Arizona, Connecticut, Kansas, Massachusetts and Nevada.
+			Data about living wages is sourced from the <a href="https://livingwage.mit.edu">MIT Living Wage
+				Calculator</a>. For
+			nonmetropolitan areas, we averaged the living wages of all counties included in the area.
+		</p>
+		<button id="homebtn" class="padding">Back</button>
+	</div>
+	<div id="game" class="section" style="display: none;">
+		<div class="padding">
 			<span id="lives" class="hearts"></span>
 			<br>
 			<span id="score">0</span>
 		</div>
-		<div id="roundinfo">
+		<div id="roundinfo" class="padding-2">
 			<span id="round"></span>
-			<br>
-			<span id="name"></span>
-			<br>
+			<div id="name"></div>
 			<span id="location"></span>
 		</div>
-		<div id="datainput" class="flex-col">
+		<div id="datainput" class="flex-col padding">
 			<span id="slidertext"></span>
 			<div id="slidercontainer" class="flex-row">
 				<input type="range" min="0" max="200000" value="0" step="1000" id="slider">
@@ -35,36 +62,37 @@
 		</div>
 	</div>
 	<div id="result" style="display: none;" class="section">
-		<span id="res-text"></span>
-		<table id="res-table">
-			<tbody>
-				<tr>
-					<td>Your Guess</td>
-					<td id="res-guess"></td>
-				</tr>
-				<tr>
-					<td>Average Salary</td>
-					<td id="res-salary"></td>
-				</tr>
-				<tr>
-					<td>Points Gained</td>
-					<td id="res-points"></td>
-				</tr>
-				<tr>
-					<td colspan="2" id="table-divider"></td>
-				</tr>
-				<tr>
-					<td>Score</td>
-					<td id="res-score"></td>
-				</tr>
-				<tr>
-					<td>Lives</td>
-					<td class="hearts" id="res-lives"></td>
-				</tr>
-			</tbody>
-		</table>
-		<button id="res-next">Next</button>
-		<button id="res-restart" style="display: none;">Restart</button>
+		<span id="res-text" class="padding"></span>
+		<div id="res-table" class="padding-2">
+			<div>
+				<div>Your Guess</div>
+				<div id="res-guess"></div>
+			</div>
+			<div>
+				<div>Average Salary</div>
+				<div id="res-salary"></div>
+			</div>
+			<div>
+				<div>Points Gained</div>
+				<div id="res-points"></div>
+			</div>
+			<div id="table-divider"></div>
+			<div>
+				<div id="living-wage">Living Wage</div>
+				<div class="living-wage-amt" id="res-l-w"></div>
+			</div>
+			<div id="table-divider"></div>
+			<div>
+				<div>Score</div>
+				<div id="res-score"></div>
+			</div>
+			<div>
+				<div>Lives</div>
+				<div class="hearts" id="res-lives"></div>
+			</div>
+		</div>
+		<button id="res-next" class="padding">Next</button>
+		<button id="res-restart" style="display: none;" class="padding">Restart</button>
 	</div>
 
 	<script src="main.js"></script>

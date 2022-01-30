@@ -1,6 +1,13 @@
 // Sections
+let homeSection = document.getElementById('home');
+let aboutSection = document.getElementById('about');
 let gameSection = document.getElementById('game');
 let resultsSection = document.getElementById('result');
+// Home section
+let play = document.getElementById('play');
+let aboutbtn = document.getElementById('aboutbtn');
+// About section
+let homebtn = document.getElementById('homebtn');
 // Game Section
 let scoreText = document.getElementById('score');
 let livesText = document.getElementById('lives');
@@ -17,6 +24,7 @@ let resSalary = document.getElementById('res-salary');
 let resPoints = document.getElementById('res-points');
 let resScore = document.getElementById('res-score');
 let resLives = document.getElementById('res-lives');
+let resLivingWage = document.getElementById('res-l-w');
 let resNext = document.getElementById('res-next');
 let resRestart = document.getElementById('res-restart');
 
@@ -50,6 +58,24 @@ function heartHTML(count) {
 	return html;
 }
 
+play.addEventListener('click', game);
+
+aboutbtn.addEventListener('click', () => {
+	homeSection.style.display = 'none';
+	aboutSection.style.display = '';
+});
+
+homebtn.addEventListener('click', () => {
+	aboutSection.style.display = 'none';
+	homeSection.style.display = '';
+});
+
+resNext.addEventListener('click', () => {
+	gameSection.style.display = '';
+	resultsSection.style.display = 'none';
+	guessing = true;
+});
+
 resNext.addEventListener('click', () => {
 	gameSection.style.display = '';
 	resultsSection.style.display = 'none';
@@ -74,6 +100,7 @@ async function game() {
 	handleSliderValue();
 	resNext.style.display = '';
 	resRestart.style.display = 'none';
+	homeSection.style.display = 'none';
 	gameSection.style.display = '';
 	resultsSection.style.display = 'none';
 
@@ -112,6 +139,11 @@ async function game() {
 				currency: 'USD',
 				maximumFractionDigits: 0,
 			});
+			resLivingWage.innerText = json.livingWage.toLocaleString('en-US', {
+				style: 'currency',
+				currency: 'USD',
+				maximumFractionDigits: 0,
+			});
 			resPoints.innerText = json.pointsGained.toLocaleString();
 			resScore.innerText = json.game.score.toLocaleString();
 			resLives.innerHTML = heartHTML(json.game.lives);
@@ -142,5 +174,3 @@ async function game() {
 
 	submit.addEventListener('click', submitClick);
 }
-
-game();
